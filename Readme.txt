@@ -1,6 +1,4 @@
-Thanks for downloading this template!
-
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Hi!
+My name is Yap Houng Minn. I am a Fresh graduate student with a Bachelor of Science (Multimedia) Hons. from Universiti Utara Malaysia (UUM).
+This is my resume website and you can view my portfolio at https://houngminn99.wixsite.com/my-site
+Thank you!
